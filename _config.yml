@@ -6,12 +6,12 @@ description: I think this will be like my website with all cool shit i develope 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
+street_address: 11 Marzuk Azar street
 city: Tel-Aviv
 state: Jafa
 zip_code: 6969
 country: Israel
-phone: +972n53 398 4926
+phone: +972 53 398 4926
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: 
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: 
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: 
+  Twitter: 
   Facebook:
   Slack:
 
